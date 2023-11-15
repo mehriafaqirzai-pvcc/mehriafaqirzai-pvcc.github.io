@@ -3,8 +3,15 @@ import datetime
 # Define constants
 PR_TICKET = 10.99
 SALES_TAX_RATE = 0.055
-
+#Nme:Mehria Faqirzai
+#Prog Purpose: Thia program finds the cost of movie tickets
+#   price for one tickets:$10.99
+#   sales tax rate:5.5%
 # Initialize global variables
+
+import datetime
+SALES_TAX_RATE=.055
+PR_TICKET=10.99
 num_tickets = 0
 subtotal = 0
 sales_tax = 0
